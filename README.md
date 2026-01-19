@@ -193,12 +193,6 @@ This project demonstrates **quantitative research discipline**, not overfitted p
 
 ---
 
-## Notes for Reviewers
-
-Interview discussion notes and extended diagnostics are available in `/reports`.
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](#license) file for details.
@@ -209,3 +203,4 @@ This project is licensed under the MIT License - see the [LICENSE](#license) fil
 
 This project is for **educational and research purposes only**.  
 It is **not financial advice**.
+
